@@ -9,3 +9,22 @@ nav a{
 	color: white;
 	margin-right: 10px;
 }
+li{
+	list-style-type: none;
+	position: relative;
+}
+.first{
+	position: absolute;
+	top: 10px;
+	left: -50px;
+}
+.second{
+	position: absolute;
+	left: 175px;
+	top: 10px;
+}
+.third{
+	position: absolute;
+	left: 400px;
+	top: 10px;
+}
