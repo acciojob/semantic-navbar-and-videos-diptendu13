@@ -7,41 +7,11 @@ nav{
 nav a{
 	text-decoration: none;
 	color: white;
-	margin-right: 10px;
-}
-ul{
-	margin-bottom: 0px;
 }
 li{
-	list-style-type: none;
+	color: white;
 	position: relative;
 }
-.first{
-	position: absolute;
-	top: 10px;
-	left: -50px;
-}
-.second{
-	position: absolute;
-	left: 175px;
-	top: 10px;
-}
-.third{
-	position: absolute;
-	left: 400px;
-	top: 10px;
-}
-#home{
-	font-size: 25px;
-	margin-bottom: 0px;
-}
-#contact{
-	font-size: 25px;
-	bottom: 56px;
-	left: 200px;
-}
-#about{
-	font-size: 25px;
-	bottom: 28px;
-	left: 85px;
+video{
+	margin-left: 12px
 }
